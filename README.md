@@ -22,3 +22,5 @@ See [LICENSE](LICENSE)
 
 [codelab]: https://firebase.google.com/codelabs/firebase-emulator
 [pathway]: https://firebase.google.com/learn/pathways/firebase-emulators
+
+<!-- Small change to trigger GitHub Actions -->
